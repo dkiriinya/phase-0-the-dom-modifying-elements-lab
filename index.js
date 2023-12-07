@@ -5,4 +5,3 @@ let newHeader = document.createElement('h1')
 newHeader.id = 'victory'
 let yourname = 'Don'
 newHeader.textContent = `${yourname} is the champion`
-console.log(newHeader)
